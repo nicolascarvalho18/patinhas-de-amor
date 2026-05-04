@@ -1,0 +1,60 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Thor",
+      "url": "https://images.unsplash.com/photo-1552053831-71594a27632d?w=800&q=80",
+      "breed": "Golden Retriever"
+    },
+    {
+      "id": 2,
+      "name": "Zeus",
+      "url": "https://images.unsplash.com/photo-1596492784531-6e6eb5ea9993?w=800&q=80",
+      "breed": "Labrador"
+    },
+    {
+      "id": 3,
+      "name": "Apollo",
+      "url": "https://images.unsplash.com/photo-1589965716319-4a041b58fa8a?w=800&q=80",
+      "breed": "Pastor Alemão"
+    },
+    {
+      "id": 4,
+      "name": "Flocos",
+      "url": "https://images.unsplash.com/photo-1617066927393-271dff6e1f06?w=800&q=80",
+      "breed": "Poodle"
+    }
+  ],
+  "cats": [
+    {
+      "id": 5,
+      "name": "Mingau",
+      "url": "https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8?w=800&q=80",
+      "breed": "Persa"
+    },
+    {
+      "id": 6,
+      "name": "Nina",
+      "url": "https://images.unsplash.com/photo-1513245543132-31f507417b26?w=800&q=80",
+      "breed": "Siamês"
+    },
+    {
+      "id": 7,
+      "name": "Simba",
+      "url": "https://images.unsplash.com/photo-1529778456100-3323089d81d4?w=800&q=80",
+      "breed": "Gato Doméstico"
+    }
+  ],
+  "rabbits": [
+    {
+      "id": 8,
+      "name": "Pompom",
+      "url": "https://images.unsplash.com/photo-1585110396000-c9fd4e4e50e7?w=800&q=80",
+      "breed": "Coelho Holandês"
+    }
+  ],
+  "donation": {
+    "emergency": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&q=80",
+    "food": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=800&q=80"
+  }
+}
